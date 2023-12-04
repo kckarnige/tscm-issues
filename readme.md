@@ -1,6 +1,6 @@
 [![logo](https://kckarnige.is-a.dev/res/mcob_title.png)](https://modrinth.com/modpack/mcob)
 #
-### This a modpack that aims to make Minecraft feel better, no matter how you prefer to play the game.
+**This a modpack that aims to make Minecraft feel better, no matter how you prefer to play the game.**
 
 This pack features mods like Better Combat, SimplySwords, SimplySkills, Vivecraft, Teralith, almost all of [YUNG's](https://modrinth.com/user/YUNGNICKYOUNG) worldgen mods, BetterNether, BetterEnd, Adorn, and a ton more.
 
