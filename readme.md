@@ -1,10 +1,13 @@
+
 ![logo](https://kckarnige.is-a.dev/res/tscm-title.png)
 #
-**This a modpack that aims to make Minecraft feel better, no matter how you prefer to play the game.**
+**This a modpack that aims to make Minecraft feel better, no matter how you prefer to play the game whether you're a builder, a survivor, or someone looking for a fun hour with friends!**
 
-This pack features mods like Better Combat, SimplySwords, SimplySkills, Continuity, Teralith, Nullscape, almost all of [YUNG's](https://modrinth.com/user/YUNGNICKYOUNG) worldgen mods, Adorn, and a ton more!
+> **If you enjoy this pack and would like to help me out finacially, consider donating to either my [CashApp](https://cash.app/$kckarnige) or [Ko-Fi](https://ko-fi.com/kckarnige)!**
 
-There's also some resource packs to help tie everything together, which I'll list some here now
+This pack features mods like Better Combat, Marium's Soulslike Weaponry, SimplySkills, Dungeon Difficulty, Teralith, Nullscape, almost all of [YUNG's](https://modrinth.com/user/YUNGNICKYOUNG) worldgen mods, Adorn, and a ton more!
+
+There's also some resource packs to help tie everything together, like:
 
 - A custom panorama to show off the pack in all it's beauty!
 
@@ -23,6 +26,3 @@ There's also some resource packs to help tie everything together, which I'll lis
 - A few more that make the game feel much more comfortable, even while in the heat of battle!
 
 This modpack also includes [Complimentary Shaders - Reimagined](https://modrinth.com/shader/complementary-reimagined), pre-configured with [Euphoria Patches](https://modrinth.com/mod/euphoria-patches)!
-
-**Please, if you enjoy this pack and would like to help me   
-finacially, consider donating to my [CashApp](https://cash.app/$kckarnige) or buying me a [Ko-Fi](https://ko-fi.com/kckarnige)!**
