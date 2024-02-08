@@ -1,7 +1,7 @@
 
 ![logo](https://kckarnige.is-a.dev/res/tscm-title.png)
 #
-**This a modpack that aims to make Minecraft feel better, no matter how you prefer to play the game whether you're a builder, a survivor, or someone looking for a fun hour with friends!**
+**This a modpack that aims to make Minecraft feel better, no matter how you prefer to play! Whether you're a builder, a survivor, or someone looking for a fun hour with friends, you're sure to have a great time!**
 
 > **If you enjoy this pack and would like to help me out finacially, consider donating to either my [CashApp](https://cash.app/$kckarnige) or [Ko-Fi](https://ko-fi.com/kckarnige)!**
 
