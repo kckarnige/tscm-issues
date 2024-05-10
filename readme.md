@@ -1,5 +1,5 @@
 
-![logo](https://kckarnige.is-a.dev/res/tscm-banner.png)
+![logo](https://kckarnige.github.io/res/tscm-banner.png)
 
 #
 
